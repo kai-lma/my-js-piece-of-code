@@ -1,7 +1,7 @@
 {
   "name": "omoplata-crawling",
   "version": "1.0.0",
-  "description": "www.omoplata.net comedian's new article crawling",
+  "description": "www.omoplata.net comedian's news article crawling",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
