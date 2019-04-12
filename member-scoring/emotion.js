@@ -30,7 +30,6 @@ const evaluateMember = (likeThisPersion) => {
 };
 
 /* Main */
-
 const main = (() => {
   evaluateMember(confirm('Do you like this person?'));
 })();

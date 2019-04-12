@@ -20,7 +20,6 @@ const scoring = () => {
 };
 
 /* Main */
-
 const main = (() => {
   scoring();
 })();
